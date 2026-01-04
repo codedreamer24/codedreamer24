@@ -52,7 +52,7 @@ Along with coding, I enjoy **sketching and fashion design**, which helps me thin
 
 ## 📊 GitHub Stats
 
-!## 📊 GitHub Stats
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codedreamer24&show_icons=true&theme=dark)
 
